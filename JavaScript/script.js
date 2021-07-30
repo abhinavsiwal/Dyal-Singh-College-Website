@@ -36,7 +36,6 @@ var swiper = new Swiper(".societies_container", {
     centeredSlides: true,
     slidesPerView: "auto",
     loop:true,
-    spaceBetween:32,
     coverflowEffect: {
       rotate: 50,
       stretch: 0,
