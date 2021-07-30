@@ -656,6 +656,14 @@ body.dark-theme{
         justify-content: center;
     } 
 }
+@media screen and (max-width:767px) {
+    .scrollup{
+        right:4rem;
+    }
+    .nav_toggle{
+        margin-right: 2.2rem;
+    }
+}
 
 @media  screen and (min-width:768px) {
     .body{
